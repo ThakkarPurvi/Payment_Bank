@@ -1,15 +1,15 @@
 
 ## Table of Content
 
-[Title and Description](##Title-and-Description)
+[Title and Description](https://github.com/ThakkarPurvi/Payment_Bank#payment-bank-program)
 
-[Tech Stack](##Tech-Stack)
+[Tech Stack](https://github.com/ThakkarPurvi/Payment_Bank#tech-stack)
 
-[Run](##Run)
+[Run](https://github.com/ThakkarPurvi/Payment_Bank#run-the-program)
 
-[Thank you](##Thank-you)
+[Thank you](https://github.com/ThakkarPurvi/Payment_Bank#thank-you)
 
-[Profile](##Profile)
+[Profile](https://github.com/ThakkarPurvi/Payment_Bank#-links)
 
 # **Payment Bank Program**
 
